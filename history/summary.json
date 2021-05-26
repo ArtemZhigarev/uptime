@@ -4,36 +4,40 @@
     "url": "https://crm.crazisolutions.dev",
     "icon": "https://favicons.githubusercontent.com/crm.crazisolutions.dev",
     "slug": "crm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 904,
     "timeDay": 668,
     "timeWeek": 749,
     "timeMonth": 904,
     "timeYear": 904,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 3
+    }
   },
   {
     "name": "Development Server",
     "url": "https://crazisolutions.dev",
     "icon": "https://favicons.githubusercontent.com/crazisolutions.dev",
     "slug": "development-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 424,
     "timeDay": 326,
     "timeWeek": 370,
     "timeMonth": 424,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 2
+    }
   },
   {
     "name": "Production Server",
@@ -58,28 +62,30 @@
     "url": "https://appetizr.fr",
     "icon": "https://favicons.githubusercontent.com/appetizr.fr",
     "slug": "appetizr-website-production",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2235,
     "timeDay": 1495,
     "timeWeek": 2903,
     "timeMonth": 2235,
     "timeYear": 2235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 2
+    }
   },
   {
     "name": "Appetizr Website (Development)",
     "url": "https://dev.appetizr.fr",
     "icon": "https://favicons.githubusercontent.com/dev.appetizr.fr",
     "slug": "appetizr-website-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
@@ -87,17 +93,19 @@
     "timeWeek": 827,
     "timeMonth": 941,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 1
+    }
   },
   {
     "name": "Appetizr CRM",
     "url": "https://crm.appetizr.fr",
     "icon": "https://favicons.githubusercontent.com/crm.appetizr.fr",
     "slug": "appetizr-crm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
@@ -105,16 +113,18 @@
     "timeWeek": 612,
     "timeMonth": 623,
     "timeYear": 623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 1
+    }
   },
   {
     "name": "Appetizr Cloud",
     "url": "https://cloud.appetizr.fr",
     "icon": "https://favicons.githubusercontent.com/cloud.appetizr.fr",
     "slug": "appetizr-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +133,9 @@
     "timeWeek": 1499,
     "timeMonth": 1544,
     "timeYear": 1544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 0
+    }
   },
   {
     "name": "Appetizr Login System (Google Auth and OTP)",
