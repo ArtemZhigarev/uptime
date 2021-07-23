@@ -104,11 +104,11 @@
     "icon": "https://favicons.githubusercontent.com/crm.appetizr.fr",
     "slug": "appetizr-crm",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 600,
     "timeDay": 375,
     "timeWeek": 717,
@@ -143,9 +143,9 @@
     "url": "https://google.com",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "appetizr-login-system-google-auth-and-otp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,6 +154,8 @@
     "timeWeek": 143,
     "timeMonth": 133,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-23": 0
+    }
   }
 ]
