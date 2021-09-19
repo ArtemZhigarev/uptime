@@ -1,7 +1,7 @@
 url: https://cloud.appetizr.fr
-status: up
-code: 200
-responseTime: 2077
-lastUpdated: 2021-09-18T23:08:56.343Z
+status: down
+code: 503
+responseTime: 994
+lastUpdated: 2021-09-19T09:06:19.313Z
 startTime: Thu May 06 2021 18:09:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
