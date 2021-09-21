@@ -130,8 +130,8 @@
     "status": "down",
     "uptime": "98.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.61%",
-    "uptimeMonth": "93.93%",
+    "uptimeWeek": "73.52%",
+    "uptimeMonth": "93.91%",
     "uptimeYear": "98.60%",
     "time": 1578,
     "timeDay": 988,
@@ -139,7 +139,7 @@
     "timeMonth": 1643,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2021-09-21": 327,
+      "2021-09-21": 336,
       "2021-09-20": 1440,
       "2021-09-19": 894,
       "2021-05-26": 105
@@ -150,19 +150,19 @@
     "url": "https://google.com",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "appetizr-login-system-google-auth-and-otp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 153,
-    "timeDay": 409,
-    "timeWeek": 255,
-    "timeMonth": 226,
+    "timeDay": 252,
+    "timeWeek": 235,
+    "timeMonth": 222,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2021-09-21": 0,
+      "2021-09-21": 9,
       "2021-07-23": 20
     }
   }
