@@ -68,7 +68,7 @@
     "timeMonth": 0,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-08-16": 1106,
+      "2023-08-16": 1115,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 829,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2023-08-16": 1106,
+      "2023-08-16": 1115,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
@@ -855,7 +855,7 @@
     "timeMonth": 682,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-08-16": 1106,
+      "2023-08-16": 1115,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
@@ -1227,19 +1227,19 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "appetizr-login-system-google-auth-and-otp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 388,
-    "timeWeek": 234,
-    "timeMonth": 223,
+    "time": 174,
+    "timeDay": 340,
+    "timeWeek": 235,
+    "timeMonth": 224,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-08-16": 0
+      "2023-08-16": 9
     }
   }
 ]
