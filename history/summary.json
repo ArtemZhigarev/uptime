@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.90%",
     "time": 780,
-    "timeDay": 684,
-    "timeWeek": 769,
-    "timeMonth": 802,
-    "timeYear": 761,
-    "dailyMinutesDown": {
-      "2022-11-18": 576
-    }
+    "timeDay": 617,
+    "timeWeek": 749,
+    "timeMonth": 796,
+    "timeYear": 760,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Development Server",
@@ -29,16 +27,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 426,
-    "timeDay": 353,
-    "timeWeek": 436,
-    "timeMonth": 436,
+    "uptimeYear": "99.89%",
+    "time": 425,
+    "timeDay": 310,
+    "timeWeek": 418,
+    "timeMonth": 432,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-05-31": 17,
-      "2023-01-25": 28,
-      "2022-11-18": 576
+      "2023-01-25": 28
     }
   },
   {
@@ -47,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "50.40%",
+    "uptime": "50.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-17": 30,
+      "2023-11-18": 30,
+      "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -421,8 +419,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   },
   {
@@ -431,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "39.28%",
+    "uptime": "39.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 754,
-    "timeDay": 529,
-    "timeWeek": 692,
-    "timeMonth": 727,
-    "timeYear": 736,
+    "timeDay": 547,
+    "timeWeek": 681,
+    "timeMonth": 722,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-11-17": 30,
+      "2023-11-18": 30,
+      "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -805,8 +803,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   },
   {
@@ -819,15 +816,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.90%",
     "time": 897,
-    "timeDay": 802,
-    "timeWeek": 822,
-    "timeMonth": 877,
+    "timeDay": 675,
+    "timeWeek": 811,
+    "timeMonth": 875,
     "timeYear": 865,
-    "dailyMinutesDown": {
-      "2022-11-18": 577
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Appetizr CRM",
@@ -839,16 +834,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 1016,
-    "timeDay": 861,
-    "timeWeek": 916,
-    "timeMonth": 969,
-    "timeYear": 980,
+    "uptimeYear": "99.89%",
+    "time": 1015,
+    "timeDay": 674,
+    "timeWeek": 887,
+    "timeMonth": 961,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2023-05-31": 25,
-      "2023-01-25": 18,
-      "2022-11-18": 577
+      "2023-01-25": 18
     }
   },
   {
@@ -857,18 +851,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "14.67%",
+    "uptime": "14.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 771,
-    "timeDay": 593,
-    "timeWeek": 664,
-    "timeMonth": 720,
+    "timeDay": 643,
+    "timeWeek": 669,
+    "timeMonth": 713,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2023-11-17": 30,
+      "2023-11-18": 30,
+      "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -1231,8 +1226,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   },
   {
@@ -1247,10 +1241,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 192,
-    "timeWeek": 227,
-    "timeMonth": 226,
-    "timeYear": 200,
+    "timeDay": 104,
+    "timeWeek": 219,
+    "timeMonth": 225,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2023-09-21": 18,
       "2023-08-31": 16
