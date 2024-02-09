@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 680,
-    "timeWeek": 665,
-    "timeMonth": 686,
+    "time": 755,
+    "timeDay": 982,
+    "timeWeek": 726,
+    "timeMonth": 698,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2024-01-06": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 412,
-    "timeDay": 375,
-    "timeWeek": 362,
-    "timeMonth": 369,
+    "timeDay": 531,
+    "timeWeek": 394,
+    "timeMonth": 376,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2024-01-06": 18,
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "46.25%",
+    "uptime": "46.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-08": 29,
+      "2024-02-09": 29,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -420,8 +421,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -430,18 +430,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "36.04%",
+    "uptime": "36.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 731,
-    "timeDay": 767,
-    "timeWeek": 696,
-    "timeMonth": 719,
-    "timeYear": 727,
+    "time": 732,
+    "timeDay": 757,
+    "timeWeek": 741,
+    "timeMonth": 723,
+    "timeYear": 725,
     "dailyMinutesDown": {
-      "2024-02-08": 29,
+      "2024-02-09": 29,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -804,8 +805,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -819,10 +819,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 1086,
-    "timeWeek": 853,
-    "timeMonth": 793,
+    "time": 853,
+    "timeDay": 954,
+    "timeWeek": 888,
+    "timeMonth": 805,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -839,10 +839,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 959,
-    "timeDay": 813,
-    "timeWeek": 830,
-    "timeMonth": 844,
+    "time": 960,
+    "timeDay": 1035,
+    "timeWeek": 861,
+    "timeMonth": 850,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2024-01-06": 17,
@@ -855,18 +855,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "13.46%",
+    "uptime": "13.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 736,
-    "timeDay": 855,
-    "timeWeek": 704,
-    "timeMonth": 681,
+    "timeDay": 995,
+    "timeWeek": 761,
+    "timeMonth": 696,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-02-08": 29,
+      "2024-02-09": 29,
+      "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
@@ -1229,8 +1230,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -1245,9 +1245,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 200,
-    "timeWeek": 170,
-    "timeMonth": 131,
+    "timeDay": 121,
+    "timeWeek": 175,
+    "timeMonth": 132,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2023-09-21": 18,
