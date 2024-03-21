@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
-    "timeDay": 680,
-    "timeWeek": 681,
-    "timeMonth": 754,
+    "timeDay": 596,
+    "timeWeek": 684,
+    "timeMonth": 750,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2024-01-06": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 410,
-    "timeDay": 372,
-    "timeWeek": 376,
-    "timeMonth": 419,
+    "timeDay": 307,
+    "timeWeek": 378,
+    "timeMonth": 417,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2024-01-06": 18,
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "44.44%",
+    "uptime": "44.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-20": 29,
+      "2024-03-21": 30,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -420,8 +421,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -430,18 +430,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "34.63%",
+    "uptime": "34.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 725,
-    "timeDay": 628,
-    "timeWeek": 627,
-    "timeMonth": 741,
-    "timeYear": 722,
+    "time": 724,
+    "timeDay": 570,
+    "timeWeek": 632,
+    "timeMonth": 733,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-03-20": 29,
+      "2024-03-21": 30,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -804,8 +805,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -820,9 +820,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 869,
-    "timeWeek": 757,
-    "timeMonth": 884,
+    "timeDay": 733,
+    "timeWeek": 759,
+    "timeMonth": 871,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -840,9 +840,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 955,
-    "timeDay": 789,
-    "timeWeek": 868,
-    "timeMonth": 948,
+    "timeDay": 692,
+    "timeWeek": 847,
+    "timeMonth": 934,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2024-01-06": 17,
@@ -855,18 +855,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "12.93%",
+    "uptime": "12.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 733,
-    "timeDay": 680,
-    "timeWeek": 675,
+    "time": 732,
+    "timeDay": 644,
+    "timeWeek": 681,
     "timeMonth": 747,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-03-20": 29,
+      "2024-03-21": 31,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -1229,8 +1230,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   },
   {
@@ -1244,11 +1244,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 181,
-    "timeDay": 172,
-    "timeWeek": 151,
-    "timeMonth": 128,
-    "timeYear": 184,
+    "time": 180,
+    "timeDay": 146,
+    "timeWeek": 137,
+    "timeMonth": 129,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2023-09-21": 18,
       "2023-08-31": 16
