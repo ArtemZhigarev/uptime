@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 746,
-    "timeDay": 751,
-    "timeWeek": 784,
-    "timeMonth": 712,
+    "timeDay": 604,
+    "timeWeek": 774,
+    "timeMonth": 710,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2024-01-06": 19
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 409,
-    "timeDay": 449,
-    "timeWeek": 438,
-    "timeMonth": 395,
+    "time": 408,
+    "timeDay": 304,
+    "timeWeek": 434,
+    "timeMonth": 393,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2024-01-06": 18,
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "42.92%",
+    "uptime": "42.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-26": 31,
+      "2024-04-27": 30,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -420,8 +421,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -430,18 +430,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "33.45%",
+    "uptime": "33.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 723,
-    "timeDay": 714,
-    "timeWeek": 713,
-    "timeMonth": 659,
+    "timeDay": 611,
+    "timeWeek": 724,
+    "timeMonth": 658,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-04-26": 31,
+      "2024-04-27": 30,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -804,8 +805,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -820,9 +820,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
-    "timeDay": 735,
-    "timeWeek": 799,
-    "timeMonth": 800,
+    "timeDay": 653,
+    "timeWeek": 797,
+    "timeMonth": 797,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -840,9 +840,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 940,
-    "timeDay": 833,
-    "timeWeek": 984,
-    "timeMonth": 873,
+    "timeDay": 705,
+    "timeWeek": 975,
+    "timeMonth": 870,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2024-01-06": 17,
@@ -855,18 +855,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "12.49%",
+    "uptime": "12.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 727,
-    "timeDay": 629,
-    "timeWeek": 736,
-    "timeMonth": 682,
+    "timeDay": 686,
+    "timeWeek": 749,
+    "timeMonth": 686,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2024-04-26": 31,
+      "2024-04-27": 30,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -1229,8 +1230,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -1245,9 +1245,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 347,
-    "timeWeek": 266,
-    "timeMonth": 191,
+    "timeDay": 281,
+    "timeWeek": 276,
+    "timeMonth": 194,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2023-09-21": 18,
