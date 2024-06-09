@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
-    "timeDay": 587,
-    "timeWeek": 695,
-    "timeMonth": 720,
+    "timeDay": 702,
+    "timeWeek": 713,
+    "timeMonth": 715,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2024-01-06": 19
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 341,
-    "timeWeek": 385,
-    "timeMonth": 397,
-    "timeYear": 399,
+    "timeDay": 369,
+    "timeWeek": 394,
+    "timeMonth": 393,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2024-01-06": 18
     }
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "41.29%",
+    "uptime": "41.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-08": 34,
+      "2024-06-09": 37,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -419,8 +420,7 @@
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
-      "2023-06-11": 1440,
-      "2023-06-10": 1440
+      "2023-06-11": 1440
     }
   },
   {
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "32.18%",
+    "uptime": "32.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 721,
-    "timeDay": 548,
-    "timeWeek": 710,
-    "timeMonth": 686,
+    "time": 720,
+    "timeDay": 753,
+    "timeWeek": 697,
+    "timeMonth": 685,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-06-08": 34,
+      "2024-06-09": 37,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -803,8 +804,7 @@
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
-      "2023-06-11": 1440,
-      "2023-06-10": 1440
+      "2023-06-11": 1440
     }
   },
   {
@@ -819,10 +819,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 841,
-    "timeDay": 682,
-    "timeWeek": 798,
-    "timeMonth": 850,
-    "timeYear": 830,
+    "timeDay": 798,
+    "timeWeek": 818,
+    "timeMonth": 845,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2024-01-06": 17
     }
@@ -838,10 +838,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 767,
-    "timeWeek": 854,
-    "timeMonth": 901,
+    "time": 931,
+    "timeDay": 1075,
+    "timeWeek": 901,
+    "timeMonth": 906,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -853,18 +853,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "12.01%",
+    "uptime": "12.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 723,
-    "timeDay": 518,
-    "timeWeek": 638,
-    "timeMonth": 669,
+    "timeDay": 916,
+    "timeWeek": 697,
+    "timeMonth": 676,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-06-08": 35,
+      "2024-06-09": 37,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -1227,8 +1228,7 @@
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
-      "2023-06-11": 1440,
-      "2023-06-10": 1440
+      "2023-06-11": 1440
     }
   },
   {
@@ -1243,9 +1243,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 106,
-    "timeWeek": 121,
-    "timeMonth": 167,
+    "timeDay": 114,
+    "timeWeek": 123,
+    "timeMonth": 165,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2024-05-01": 40,
