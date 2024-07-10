@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 740,
-    "timeDay": 995,
-    "timeWeek": 711,
-    "timeMonth": 764,
+    "timeDay": 695,
+    "timeWeek": 722,
+    "timeMonth": 756,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2024-01-06": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 571,
-    "timeWeek": 381,
-    "timeMonth": 421,
+    "timeDay": 389,
+    "timeWeek": 387,
+    "timeMonth": 415,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2024-01-06": 18
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "40.18%",
+    "uptime": "40.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 34,
+      "2024-07-10": 34,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -419,8 +420,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   },
   {
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "31.32%",
+    "uptime": "31.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 713,
-    "timeDay": 772,
-    "timeWeek": 676,
-    "timeMonth": 671,
+    "timeDay": 841,
+    "timeWeek": 716,
+    "timeMonth": 673,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-07-09": 34,
+      "2024-07-10": 34,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -803,8 +804,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   },
   {
@@ -819,9 +819,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 842,
-    "timeDay": 1107,
-    "timeWeek": 843,
-    "timeMonth": 892,
+    "timeDay": 837,
+    "timeWeek": 848,
+    "timeMonth": 884,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -838,10 +838,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1186,
-    "timeWeek": 869,
-    "timeMonth": 959,
+    "time": 928,
+    "timeDay": 1181,
+    "timeWeek": 939,
+    "timeMonth": 961,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -853,18 +853,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "11.69%",
+    "uptime": "11.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 718,
-    "timeDay": 929,
-    "timeWeek": 736,
-    "timeMonth": 746,
+    "timeDay": 645,
+    "timeWeek": 724,
+    "timeMonth": 738,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2024-07-09": 34,
+      "2024-07-10": 34,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -1227,8 +1228,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   },
   {
@@ -1242,11 +1242,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 183,
-    "timeDay": 449,
-    "timeWeek": 185,
-    "timeMonth": 176,
-    "timeYear": 188,
+    "time": 184,
+    "timeDay": 769,
+    "timeWeek": 275,
+    "timeMonth": 198,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2024-05-01": 40,
       "2023-09-21": 18,
