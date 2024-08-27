@@ -10,8 +10,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 780,
+    "time": 738,
+    "timeDay": 633,
     "timeWeek": 810,
     "timeMonth": 751,
     "timeYear": 730,
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 391,
-    "timeWeek": 444,
-    "timeMonth": 413,
+    "timeDay": 421,
+    "timeWeek": 455,
+    "timeMonth": 417,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2024-01-06": 18
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "38.59%",
+    "uptime": "38.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-26": 36,
+      "2024-08-27": 36,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -419,8 +420,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "30.07%",
+    "uptime": "30.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 711,
-    "timeDay": 813,
-    "timeWeek": 751,
-    "timeMonth": 747,
+    "timeDay": 726,
+    "timeWeek": 784,
+    "timeMonth": 748,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-08-26": 36,
+      "2024-08-27": 36,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -803,8 +804,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -819,10 +819,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
-    "timeDay": 858,
-    "timeWeek": 953,
-    "timeMonth": 1024,
-    "timeYear": 849,
+    "timeDay": 711,
+    "timeWeek": 901,
+    "timeMonth": 1016,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2024-01-06": 17
     }
@@ -833,15 +833,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.appetizr.fr.ico",
     "slug": "appetizr-crm",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 808,
-    "timeWeek": 1012,
-    "timeMonth": 981,
+    "time": 926,
+    "timeDay": 782,
+    "timeWeek": 1013,
+    "timeMonth": 979,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2024-01-06": 17
@@ -853,18 +853,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "11.23%",
+    "uptime": "11.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 716,
-    "timeDay": 582,
-    "timeWeek": 752,
-    "timeMonth": 754,
+    "timeDay": 694,
+    "timeWeek": 749,
+    "timeMonth": 753,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-08-26": 36,
+      "2024-08-27": 36,
+      "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -1227,8 +1228,7 @@
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440
+      "2023-08-29": 1440
     }
   },
   {
@@ -1243,9 +1243,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 192,
-    "timeWeek": 187,
-    "timeMonth": 157,
+    "timeDay": 144,
+    "timeWeek": 164,
+    "timeMonth": 156,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-05-01": 40,
