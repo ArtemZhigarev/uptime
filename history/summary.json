@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.live.ico",
     "slug": "production-server",
     "status": "down",
-    "uptime": "37.56%",
+    "uptime": "37.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-28": 39,
+      "2024-09-28": 1014,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -429,7 +429,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/appetizr.fr.ico",
     "slug": "appetizr-website-production",
     "status": "down",
-    "uptime": "29.27%",
+    "uptime": "29.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -440,7 +440,7 @@
     "timeMonth": 722,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-09-28": 39,
+      "2024-09-28": 1014,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -812,9 +812,9 @@
     "url": "https://dev.appetizr.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dev.appetizr.fr.ico",
     "slug": "appetizr-website-development",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -824,6 +824,7 @@
     "timeMonth": 875,
     "timeYear": 855,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-01-06": 17
     }
   },
@@ -832,9 +833,9 @@
     "url": "https://crm.appetizr.fr",
     "icon": "https://icons.duckduckgo.com/ip3/crm.appetizr.fr.ico",
     "slug": "appetizr-crm",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -844,6 +845,7 @@
     "timeMonth": 1047,
     "timeYear": 922,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-01-06": 17
     }
   },
@@ -853,7 +855,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.appetizr.fr.ico",
     "slug": "appetizr-cloud",
     "status": "down",
-    "uptime": "10.93%",
+    "uptime": "10.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -864,7 +866,7 @@
     "timeMonth": 739,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2024-09-28": 39,
+      "2024-09-28": 1014,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
