@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 638,
+      "2025-10-31": 649,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -388,19 +388,19 @@
     "url": "https://crazisolutions.dev",
     "icon": "https://icons.duckduckgo.com/ip3/crazisolutions.dev.ico",
     "slug": "development-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 443,
-    "timeDay": 577,
-    "timeWeek": 453,
-    "timeMonth": 516,
+    "timeDay": 490,
+    "timeWeek": 447,
+    "timeMonth": 513,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-10-31": 1,
+      "2025-10-31": 11,
       "2025-06-16": 139
     }
   },
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 638,
+      "2025-10-31": 649,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -805,7 +805,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 638,
+      "2025-10-31": 649,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1189,7 +1189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 638,
+      "2025-10-31": 649,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1573,7 +1573,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 638,
+      "2025-10-31": 649,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1957,7 +1957,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 638,
+      "2025-10-31": 649,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
